@@ -1,5 +1,7 @@
 # Unity 飞机射击与计时关卡
 
+[在浏览器中试玩](https://kommww31824.github.io/unity-aircraft-arcade/)
+
 Unity / C# 项目源码作品集。
 
 定时生成、子弹碰撞回调、目标分值、受击重置、结果 UI 和独立计时交互。
